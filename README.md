@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Quang Huy and I’m a sophomore at Ton Duc Thang University, majoring in CSI</h2>
+<h2 align="left">Hi 👋! My name is Quang Huy and I’m a sophomore at Ton Duc Thang University, majoring in Computer Science</h2>
 
 ###
 
